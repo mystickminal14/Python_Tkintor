@@ -12,6 +12,7 @@ label=Label(window,text="My name is minal",
             padx=50,
             pady=50,
             image=photo,
+            
             compound='bottom')
 label.place(x=50,y=50)
 
