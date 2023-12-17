@@ -2,8 +2,8 @@ from tkinter import *
 
 window= Tk()
 
-photo=PhotoImage(file='cream.png')
-label=Label(window,text="My name is minal",
+icon=                                                                                                                                                                                                                                                                                                                                                                              (file='cream.png')
+label=Label(window,text="firstname",
             font=('IMPACT',20,'bold'),
             fg='white',
             bg='BLACK',
@@ -11,7 +11,7 @@ label=Label(window,text="My name is minal",
             bd=5,
             padx=50,
             pady=50,
-            image=photo,
+            image=icon,
             
             compound='bottom')
 label.place(x=50,y=50)
