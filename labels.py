@@ -2,7 +2,7 @@ from tkinter import *
 
 window= Tk()
 
-icon=                                                                                                                                                                                                                                                                                                                                                                              (file='cream.png')
+icon=PhotoImage(file='cream.png')                                                                                                                                                                                                                                                                                                                                                                          (file='cream.png')
 label=Label(window,text="firstname",
             font=('IMPACT',20,'bold'),
             fg='white',
